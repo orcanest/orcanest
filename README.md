@@ -2,9 +2,9 @@
 
 ## Hi there 👋
 
-<b>Orkanest – Where Code Meets Creativity<b/>
+<b>Orca Nest – Where Code Meets Creativity<b/>
 
-At Orkanest, we craft innovative software solutions that blend cutting-edge technology with creativity. Our team specializes in developing scalable, high-performance applications tailored to meet modern business needs. Whether it's web, mobile, or cloud-based solutions, we turn ideas into reality through clean code, smart architecture, and seamless user experiences.
+At Orca Nest, we craft innovative software solutions that blend cutting-edge technology with creativity. Our team specializes in developing scalable, high-performance applications tailored to meet modern business needs. Whether it's web, mobile, or cloud-based solutions, we turn ideas into reality through clean code, smart architecture, and seamless user experiences.
 <br/>
 
 🔹 Web & Mobile Development <br/>
