@@ -4,16 +4,19 @@
 
 <strong>Orcanest – Where Code Meets Creativity</strong>
 
-At Orcanest, we craft innovative software solutions that blend cutting-edge technology with creativity. Our team specializes in developing scalable, high-performance applications tailored to meet modern business needs. Whether it's web, mobile, or cloud-based solutions, we turn ideas into reality through clean code, smart architecture, and seamless user experiences.
+At Orcanest, we don’t just write code – we engineer future-ready solutions that empower businesses to thrive in the digital age. By blending cutting-edge technology with creative problem-solving, we deliver software that’s not only functional but also transformative. From scalable web and mobile applications to secure cloud-based ecosystems, we specialize in crafting solutions that are as efficient as they are innovative. Our expertise spans:
 <br/>
 
-🔹 Web & Mobile Development <br/>
-🔹 Scalable & Secure Software Solutions <br/>
-🔹 Cloud & DevOps Expertise <br/>
-🔹 AI & Data-driven Applications <br/>
+🔹 Web & Mobile Development: Seamless, user-centric experiences. <br/>
+🔹 Scalable & Secure Systems: Built to grow with your business <br/>
+🔹 Cloud & DevOps: Reliable, agile, and future-proof infrastructure. <br/>
+🔹 AI & Data-Driven Solutions: Unlocking insights, driving decisions. <br/>
 
-We believe in building the future one line of code at a time. Let’s innovate together!
+We believe in the power of clean code, smart architecture, and collaborative innovation to turn ideas into impactful realities.
+
+Let’s build the future, one line of code at a time. 🚀
 
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,materialui,react,nextjs,nodejs,nestjs,express,mongodb,mysql,postgres,kafka,rabbitmq,linux,git,github,gitlab,jenkins,docker,kubernetes,aws,prometheus,terraform,graphql,jest,postman,bash,py,vscode)](https://skillicons.dev)
+
