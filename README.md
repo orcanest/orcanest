@@ -1,8 +1,8 @@
 <img src="https://github.com/orcanest/orcanest/blob/main/orkanest-company.png?raw=true"/>
 
-<div class='text-align: center;'>
+<div style='text-align: center;'>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThybG4zYWVwYmdzMmt1cG41a2plNGp0MHZhNmNwNHUxbHRkemI5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gchkePFkAEIfzgSvU5/giphy.gif"/>
+<img style="text-align: center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThybG4zYWVwYmdzMmt1cG41a2plNGp0MHZhNmNwNHUxbHRkemI5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gchkePFkAEIfzgSvU5/giphy.gif"/>
 
 </div>
 
