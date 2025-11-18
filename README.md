@@ -12,4 +12,4 @@ Junior DevOps Engineer with hands-on experience in containerization (Docker + Do
 Open to technical discussions.</br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,redhat,py,bash,ansible,terraform,git,github,githubactions,gitlab,jenkins,docker,kubernets,prometheus,grafana,postgres,mysql,mongodb,redis,rabbitmq,kafka,openstack,aws,nginx,flask,elasticsearch&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,redhat,py,bash,ansible,terraform,git,github,githubactions,gitlab,jenkins,docker,kubernetes,prometheus,grafana,postgres,mysql,mongodb,redis,rabbitmq,kafka,openstack,aws,nginx,flask,elasticsearch)](https://skillicons.dev)
