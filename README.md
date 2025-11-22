@@ -7,10 +7,10 @@
 I build backend systems that don’t break when traffic explodes or requirements change overnight. Love turning messy problems into clean, scalable, and maintainable code using:
 </br>
 ```
-● Node.js (Express, NestJS, Fastify) </br>
-● Event-driven & microservices architectures </br>
-● PostgreSQL, MySql MongoDB, Redis, TypeORM, Elasticsearch </br>
-● Horizontal scaling and system resilience </br>
+● Node.js (Express, NestJS, Fastify)
+● Event-driven & microservices architectures
+● PostgreSQL, MySql MongoDB, Redis, TypeORM, Elasticsearch
+● Horizontal scaling and system resilience
 ```
 </br>
 I like working in Agile teams and enjoy collaborating to deliver clean, efficient backend code. </br>
