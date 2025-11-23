@@ -9,7 +9,7 @@ I build backend systems that don’t break when traffic explodes or requirements
 ```
 ● Node.js (Express, NestJS, Fastify)
 ● Event-driven & microservices architectures
-● PostgreSQL, MySql MongoDB, Redis, TypeORM, Elasticsearch
+● PostgreSQL, MySql, MongoDB, Redis, TypeORM, Elasticsearch
 ● Horizontal scaling and system resilience
 ```
 </br>
