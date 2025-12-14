@@ -24,4 +24,4 @@ Actively seeking entry-level Frontend Developer roles, internships, or junior po
 </br>
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,jest,cypress,postman,graphql,git,github,githubactions,docker,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,materialui,tailwind,bootstrap,jest,cypress,postman,graphql,git,github,githubactions,linux,docker,nginx)](https://skillicons.dev)
