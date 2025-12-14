@@ -21,5 +21,6 @@ What I’m actively working with and studying :
 I code daily, solve algorithmic problems regularly, and share all projects on GitHub. Actively seeking entry-level backend roles, internships, or mentorship opportunities </br>
 </br>
 Actively seeking entry-level Frontend Developer roles, internships, or junior positions where I can contribute to real-world projects, learn from experienced teams, and grow my skills further. </br>
-
+</br>
+</br>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,jest,cypress,postman,graphql,git,github,githubactions,docker,nginx)](https://skillicons.dev)
