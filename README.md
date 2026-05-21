@@ -4,24 +4,25 @@
 <img src ="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="20" height="20"/> 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲
 </br>
 </br>
-Currently building a solid foundation in Frontend development .What I’m actively working with and studying :
+Currently building a solid foundation in Linux system administration and cloud infrastructure. What I’m actively working with and studying:
 </br>
 </br>
 What I’m actively working with and studying :
 
 ```
-● Javascript(ES6), React js, Next js, Typescript, Node.js
-● Tailwind, Shadcn, Bootstrap
+● Linux (Ubuntu, AlmaLinux)
+● Bash scripting, Python basics
+● Ansible, Docker, Terraform
+● Prometheus & Grafana
+● GitLab CI/CD
 ● Git & GitHub
-● NoSQL databases (MongoDB)
-● Testing (Jest, RTL, Cypress)
-● Basic CI/CD : Docker, GitHub Action, NGINX
+● OpenStack (basic hands-on), Proxmox  
 ```
 </br>
-I code daily, solve algorithmic problems regularly, and share all projects on GitHub. Actively seeking entry-level backend roles, internships, or mentorship opportunities </br>
+I lab almost every day – breaking things, fixing them, automating repetitive tasks with Bash and Ansible, and putting everything on GitHub. </br>
 </br>
-Actively seeking entry-level Frontend Developer roles, internships, or junior positions where I can contribute to real-world projects, learn from experienced teams, and grow my skills further. </br>
+Actively looking for entry-level Linux Administrator, Cloud Administrator, or junior Infrastructure roles where I can take care of real servers and learn from experienced teams. </br>
 </br>
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,materialui,tailwind,bootstrap,jest,cypress,postman,graphql,git,github,githubactions,linux,docker,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,bash,linux,ubuntu,redhat,debian,ansible,terraform,docker,nginx,openstack,git,gitlab,github,githubactions,grafana,prometheus,)](https://skillicons.dev)
