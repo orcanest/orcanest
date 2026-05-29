@@ -2,7 +2,7 @@
 
 <img src ="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="20" height="20"/> 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲
 
-### Currently building a strong foundation in Linux system administration and cloud infrastructure through daily hands-on labs and automation projects.
+#### Currently building a strong foundation in Linux system administration and cloud infrastructure through daily hands-on labs and automation projects.
 
 🚀 **Technologies & Tools :**
 - *Linux (Ubuntu, AlmaLinux)*
