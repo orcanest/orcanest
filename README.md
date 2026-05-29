@@ -13,8 +13,7 @@
 - *Git & GitHub*
 - *OpenStack (basic hands-on), Proxmox*
 
-![](https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png) **What I’m Doing :**
-<img src ="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" height="50"/>  **What I’m Doing :**
+✔️ **What I’m Doing :**
 - *Building and maintaining homelab environments*
 - *Breaking, troubleshooting, and fixing Linux systems*
 - *Automating repetitive tasks with Bash and Ansible*
