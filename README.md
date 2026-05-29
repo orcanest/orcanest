@@ -4,10 +4,10 @@
 <img src ="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="20" height="20"/> 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲
 </br>
 </br>
-Currently building a solid foundation in Linux system administration and cloud infrastructure. What I’m actively working with and studying:
+Currently building a strong foundation in Linux system administration and cloud infrastructure through daily hands-on labs and automation projects.
 </br>
 </br>
-What I’m actively working with and studying :
+Technologies & Tools :
 
 ```
 ● Linux (Ubuntu, AlmaLinux)
@@ -18,6 +18,19 @@ What I’m actively working with and studying :
 ● Git & GitHub
 ● OpenStack (basic hands-on), Proxmox  
 ```
+</br>
+
+</br>
+What I’m Doing :
+
+```
+● Building and maintaining homelab environments
+● Breaking, troubleshooting, and fixing Linux systems
+● Automating repetitive tasks with Bash and Ansible
+● Practicing infrastructure deployment and monitoring
+● Documenting projects and labs on GitHub  
+```
+</br>
 </br>
 I lab almost every day – breaking things, fixing them, automating repetitive tasks with Bash and Ansible, and putting everything on GitHub. </br>
 </br>
