@@ -19,8 +19,6 @@ Technologies & Tools :
 ● OpenStack (basic hands-on), Proxmox  
 ```
 </br>
-
-</br>
 What I’m Doing :
 
 ```
