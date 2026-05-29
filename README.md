@@ -20,16 +20,12 @@ Currently building a strong foundation in Linux system administration and cloud 
 ```
 </br>
 ✅ <strong>What I’m Doing :</strong>
-
-   
-```
+</br>
 ● Building and maintaining homelab environments
 ● Breaking, troubleshooting, and fixing Linux systems
 ● Automating repetitive tasks with Bash and Ansible
 ● Practicing infrastructure deployment and monitoring
 ● Documenting projects and labs on GitHub  
-```
-</br>
 </br>
 I lab almost every day – breaking things, fixing them, automating repetitive tasks with Bash and Ansible, and putting everything on GitHub. </br>
 </br>
