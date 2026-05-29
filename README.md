@@ -7,7 +7,7 @@
 Currently building a strong foundation in Linux system administration and cloud infrastructure through daily hands-on labs and automation projects.
 </br>
 </br>
-Technologies & Tools :
+🚀 <strong>Technologies & Tools :</strong>
 
 ```
 ● Linux (Ubuntu, AlmaLinux)
@@ -19,7 +19,7 @@ Technologies & Tools :
 ● OpenStack (basic hands-on), Proxmox  
 ```
 </br>
-What I’m Doing :
+✅ <strong>What I’m Doing :</strong>
 
 ```
 ● Building and maintaining homelab environments
