@@ -23,4 +23,4 @@
 #### I lab almost every day – breaking things, fixing them, automating repetitive tasks with Bash and Ansible, and putting everything on GitHub. actively looking for entry-level Linux Administrator, Cloud Administrator, or junior Infrastructure roles where I can take care of real servers and learn from experienced teams.
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,bash,linux,ubuntu,redhat,debian,ansible,terraform,docker,nginx,openstack,git,gitlab,github,githubactions,grafana,prometheus,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,bash,linux,ubuntu,redhat,debian,ansible,terraform,docker,nginx,openstack,git,gitlab,github,githubactions,grafana,prometheus,vim)](https://skillicons.dev)
