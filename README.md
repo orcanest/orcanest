@@ -1,5 +1,4 @@
-<img width="1380" height="437" alt="Group 32" src="https://github.com/user-attachments/assets/e97b5f27-5562-4bba-b717-604a71ccc183" />
-<!-- <img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif"/> -->
+<img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif"/>
 
 <img src ="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="20" height="20"/> 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲
 
