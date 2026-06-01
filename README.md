@@ -1,10 +1,9 @@
 <img width="1584" height="396" alt="linkedin-bannery" src="https://github.com/user-attachments/assets/c8caaab0-ac06-4967-8cc4-e5afcbcef586" />
 
 <!-- <img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif"/> -->
+<!-- <img src ="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="20" height="20"/> 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲 -->
 
-<img src ="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="20" height="20"/> 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲
-
-#### Currently building a strong foundation in Linux system administration and cloud infrastructure through daily hands-on labs and automation projects.
+#### Hi there, Currently building a strong foundation in Linux system administration and cloud infrastructure through daily hands-on labs and automation projects.
 
 🚀 **Technologies & Tools :**
 - *Linux (Ubuntu, AlmaLinux)*
