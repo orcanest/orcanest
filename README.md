@@ -8,13 +8,13 @@
 #### Hi there, Currently building a strong foundation in Linux system administration and cloud infrastructure through daily hands-on labs and automation projects.
 
 🚀 **Technologies & Tools :**
-- *Linux (Ubuntu, AlmaLinux)*
+- *Linux (Ubuntu, AlmaLinux, CentOS)*
 - *Bash scripting, Python basics*
-- *Ansible, Docker, Terraform*
-- *Prometheus & Grafana*
+- *Ansible, Docker*
+- *Prometheus & Grafana, Zabbix*
 - *GitLab CI/CD*
 - *Git & GitHub*
-- *OpenStack (basic hands-on), Proxmox*
+- *Proxmox*
 
 ✔️ **What I’m Doing :**
 - *Building and maintaining homelab environments*
