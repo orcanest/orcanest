@@ -29,7 +29,7 @@ I work extensively with Linux servers, automation tools, and monitoring systems,
 - *Documenting projects and labs on GitHub*
 
 🧠 **Mindset:**
-I focus on learning by doing — designing systems, breaking them, debugging issues, and improving reliability through iteration. This approach has helped me understand not only how to fix problems, but why they occur.
+I focus on learning by doing designing systems, breaking them, debugging issues, and improving reliability through iteration. This approach has helped me understand not only how to fix problems, but why they occur.
 
 📌 **Currently looking for:**
 Junior Linux Administrator, Cloud Administrator, or Infrastructure / DevOps roles where I can contribute to real production systems and continue growing in a collaborative environment.
