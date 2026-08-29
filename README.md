@@ -12,14 +12,14 @@ I'm currently building a strong foundation in **Linux system administration and 
 I've always been curious about how systems work behind the scenes, which naturally led me to Linux and infrastructure. I enjoy learning by doing — setting up systems, breaking things, troubleshooting problems, and figuring out why they happen.
 Most of my current experience comes from working with **Linux servers in a homelab environment**, where I practice system administration, service configuration, troubleshooting, and automation.
 
-## 🚀 Technologies & Tools
+### 🚀 Technologies & Tools
 
 * **Linux** — Ubuntu, AlmaLinux, CentOS
 * **Bash**
 * **Git & GitHub**
 * **Python** — basics
 
-## ✔️ What I'm Doing
+### ✔️ What I'm Doing
 
 * Building and maintaining Linux-based homelab environments
 * Practicing Linux system administration
@@ -29,13 +29,13 @@ Most of my current experience comes from working with **Linux servers in a homel
 * Documenting my labs and projects on GitHub
 * Continuously learning infrastructure and system administration
 
-## 🧠 My Approach
+### 🧠 My Approach
 
 I believe the best way to learn infrastructure is by getting hands-on.
 I like to **build, break, troubleshoot, understand, and improve**. Rather than only learning how to fix a problem, I try to understand why it happened in the first place. 
 My goal is to gradually build strong fundamentals in Linux and infrastructure and apply them in real-world environments.
 
-## 📌 Currently Looking For
+### 📌 Currently Looking For
 
 I'm currently looking for a **Junior Linux Administrator, Junior System Administrator, or Junior Infrastructure** role where I can apply my Linux knowledge, learn from experienced engineers, and continue growing through real-world experience.
 
