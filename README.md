@@ -12,7 +12,7 @@ Most of my current experience comes from working with **Linux servers in a homel
 * **Linux** — Ubuntu, AlmaLinux, CentOS
 * **Bash**
 * **Git & GitHub**
-* **Python** — basics
+* **Python**
 
 ### ✔️ What I'm Doing
 
