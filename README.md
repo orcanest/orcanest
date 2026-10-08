@@ -35,4 +35,4 @@ I'm currently looking for a **Junior Linux Administrator, Junior System Administ
 
 ### ⚙️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,bash,go,linux,ubuntu,redhat,debian,ansible,docker,nginx,git,gitlab,github,githubactions,grafana,prometheus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,go,bash,linux,redhat,debian,ansible,docker,nginx,git,gitlab,github,githubactions,grafana,prometheus)](https://skillicons.dev)
