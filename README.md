@@ -27,6 +27,10 @@ My goal is to gradually build strong fundamentals in Linux and infrastructure an
 
 I'm currently looking for a **Junior Linux Administrator, Junior System Administrator, or Junior Infrastructure** role where I can apply my Linux knowledge, learn from experienced engineers, and continue growing through real-world experience.
 
+<br>
 
+<img width="100%" height="80" alt="Tech Coding GIF by blinkies cafe" src="https://github.com/user-attachments/assets/e4dc519c-a5e1-4eb9-9f63-a64507ad5ec8" />
+
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,bash,go,linux,ubuntu,redhat,debian,ansible,docker,nginx,git,gitlab,github,githubactions,grafana,prometheus)](https://skillicons.dev)
