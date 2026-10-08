@@ -29,9 +29,9 @@ I'm currently looking for a **Junior Linux Administrator, Junior System Administ
 
 <br>
 
-<img width="100%" height="100" alt="Tech Coding GIF by blinkies cafe" src="https://github.com/user-attachments/assets/e4dc519c-a5e1-4eb9-9f63-a64507ad5ec8" />
-
-<br>
+<div align="center">
+<img width="60%" height="55" alt="Tech Coding GIF by blinkies cafe" src="https://github.com/user-attachments/assets/e4dc519c-a5e1-4eb9-9f63-a64507ad5ec8" />
+</div>
 
 ### ⚙️ Skills
 
