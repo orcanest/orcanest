@@ -4,7 +4,7 @@
 #### <img src ="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="20" height="20"/> Hi, I'm Saeid
 
 I'm currently building a strong foundation in **Linux system administration and infrastructure** through hands-on labs and personal projects.
-I've always been curious about how systems work behind the scenes, which naturally led me to Linux and infrastructure. I enjoy learning by doing — setting up systems, breaking things, troubleshooting problems, and figuring out why they happen.
+I've always been curious about how systems work behind the scenes, which naturally led me to Linux and infrastructure. I enjoy learning by doing setting up systems, breaking things, troubleshooting problems, and figuring out why they happen.
 Most of my current experience comes from working with **Linux servers in a homelab environment**, where I practice system administration, service configuration, troubleshooting, and automation.
 
 ### ✔️ What I'm Doing
