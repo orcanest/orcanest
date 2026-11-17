@@ -16,4 +16,4 @@
 
 ## ⚙️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwindcss,nodejs,mongodb,linux,git,github,graphql,jest,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwindcss,mui,nodejs,mongodb,linux,git,github,graphql,jest,figma)](https://skillicons.dev)
