@@ -1,5 +1,4 @@
-<!-- <img width="100%" height="396" alt="linkedin-banner" src="https://github.com/user-attachments/assets/02a4ad2b-d8cc-4dce-966b-3dd6249b18f7" /> -->
-
+<img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif"/>
 
 ## Hi, I'm Saeid 👋
 
