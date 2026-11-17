@@ -3,7 +3,7 @@
 <img width="100%" height="396" alt="linkedin-banner" src="https://github.com/user-attachments/assets/747651e4-1829-40b9-8075-ffa635bada7d" />
 
 
-## Hi, I'm Saeid 👋
+## 👋 Hi, I'm Saeid 
 
 <br>
 • I'm currently learning Frontend Development, with a focus on JavaScript and TypeScript. I'm also exploring React and Next.js, with a strong interest in understanding how things work under the hood rather than just learning how to use them. 
@@ -14,6 +14,6 @@
 <br><br>
 
 
-## 🧠 Skills
+## ⚙️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwindcss,nodejs,mongodb,linux,git,github,graphql,jest,figma)](https://skillicons.dev)
