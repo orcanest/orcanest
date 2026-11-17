@@ -2,37 +2,15 @@
 
 ## Hi, I'm Saeid 👋
 
-I'm an IT graduate interested in software development, Linux systems, and infrastructure. My technical journey started with curiosity about how operating systems and computer systems work behind the scenes. Since then, I've been building my knowledge through hands-on Linux labs, personal projects, and continuous learning. I enjoy understanding how things work, experimenting with different technologies, troubleshooting problems, and improving my technical skills through practice.
-
-## 🐧 Linux & Infrastructure
-
-I've been developing my knowledge of Linux and infrastructure through self-directed learning and homelab experiments. Some of the areas I'm exploring:
-
-- Linux System Administration
-- Linux System Architecture
-- Networking Fundamentals
-- Service Configuration and Management
-- Bash Scripting and Automation
-- Troubleshooting and Problem Solving
-
-## 💻 Programming & Software Development
-
-Alongside Linux and infrastructure, I'm developing my programming skills and exploring software development. Currently working with and learning about:
-
-- JavaScript
-- Programming Fundamentals
-- Arrays, Objects, and Functions
-- Asynchronous JavaScript
-- Working with APIs
-- C# and .NET Fundamentals
+<br>
+• I'm currently learning Frontend Development, with a focus on JavaScript and TypeScript. I'm also exploring React and Next.js, with a strong interest in understanding how things work under the hood rather than just learning how to use them. 
+<br>
+• I enjoy diving deep into concepts, experimenting with different approaches, solving problems, and turning ideas into real projects. For me, programming is not just about writing code. It's about understanding the logic behind it, figuring out why things work the way they do, and constantly learning something new.
+<br>
+• I'm always open to learning opportunities, collaborating with other developers, and gaining hands-on experience. 
+<br><br>
 
 
-## 🧠 My Learning Approach
+## 🧠 Skills
 
-I believe the best way to learn technology is through hands-on practice.
-I enjoy building things, experimenting, making mistakes, troubleshooting, and understanding the reasons behind problems rather than simply memorizing solutions.
-My goal is to build strong technical foundations and gradually grow as a software developer with a solid understanding of Linux and infrastructure.
-
-## 📫 Connect With Me
-
-- **LinkedIn:** [Saeid Behjat](https://www.linkedin.com/in/saeidbehjat/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwindcss,nodejs,mongodb,linux,git,github,graphql,jest,figma)](https://skillicons.dev)
